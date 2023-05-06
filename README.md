@@ -1,4 +1,4 @@
-# CG sample programs for micropython-x68k
+# 四川省 for micropython-x68k
 
 yunkさんの[MicroPython for X68000](https://github.com/yunkya2/micropython-x68k)でパズルゲーム四川省を作りました。X-BASIC風の関数群パッケージ[xbasip](https://github.com/nozwas/xbasip-x68k)を同梱し使用しています。
 
