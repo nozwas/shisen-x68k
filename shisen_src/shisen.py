@@ -20,7 +20,7 @@ GAME_CLEAR, GAME_QUIT = 1, 2
 STAGE_DATA = ((18, 9, 68000), (27, 12, 9801), (34, 17, 1100), [34, 17, None])
 EDGE = -1
 C_BG = rgb(0, 16, 16)
-K_UP, K_LEFT, K_RIGHT, K_DOWN = 0x10, 0x02, 0x06, 0x0e
+K_UP, K_LEFT, K_RIGHT, K_DOWN = ord("8"), ord("4"), ord("6"), ord("2")
 K_ESCAPE, K_RETURN, K_SPACE, K_BACKSPACE  = 0x1b, 0x0d, 0x20, 0x08
 K_s, K_q, K_u, K_S, K_Q, K_U = map(lambda i: ord(i), "squSQU")
 
