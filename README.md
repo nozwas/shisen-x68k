@@ -1,6 +1,8 @@
-# 四川省 for micropython-x68k
+# CG sample programs for micropython-x68k
 
 yunkさんの[MicroPython for X68000](https://github.com/yunkya2/micropython-x68k)でパズルゲーム四川省を作りました。X-BASIC風の関数群パッケージ[xbasip](https://github.com/nozwas/xbasip-x68k)を同梱し使用しています。
+
+BGMは[あうぇっど](https://github.com/YosAwed)さんに作曲していただきました。opmdrv3.xもしくは[zmusic2.x](http://retropc.net/x68000/software/sound/zmusic/zmusic2/)をシステムに組み込んだ状態で実行してください。
 
 ## 実行方法
 
